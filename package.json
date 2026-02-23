@@ -1,0 +1,20 @@
+{
+  "name": "it23577138",
+  "version": "1.0.0",
+  "description": "A test repo for the in class labs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ImethLochanaWeerasooriya/IT23577138.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ImethLochanaWeerasooriya/IT23577138/issues"
+  },
+  "homepage": "https://github.com/ImethLochanaWeerasooriya/IT23577138#readme"
+}
